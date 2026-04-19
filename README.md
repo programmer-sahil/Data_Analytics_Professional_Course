@@ -1,7 +1,3 @@
-# Data_Analytics_Professional_Course
-NYCTA (National Youth Computer Training Center)
-
-
 # 📊 Data Analytics Professional Course
 
 > **NYCTA — National Youth Computer Training Center**  
