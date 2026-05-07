@@ -1,10 +1,13 @@
--- ============================================
 -- MySQL Class 4 & 5 Complete Practice Script
--- Topics:
+-- Topics Covered:
+
 -- Class 4:
 -- Functions, Aggregate Functions, GROUP BY, HAVING,
 -- Joins, Foreign Keys, Subqueries
---
+
+
+
+
 -- Class 5:
 -- CTEs, UNION, UNION ALL, Views,
 -- Date and Time Functions, String Functions,
@@ -12,7 +15,7 @@
 -- Transactions, Data Cleaning, NULL Handling,
 -- Query Optimization Basics, Normalization,
 -- Interview Practice, Real-World Analytics Queries
--- ============================================
+
 
 
 -- ============================================
